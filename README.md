@@ -1,2 +1,2 @@
-# Linkedin-NetCore-N-Tier
+# Linkedin Clone Profile Pages
  Linkedin Clone Net Core Backend Project
